@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ayushv8
-- 🌱 I’m currently learning web development
 - 📫 How to reach me - mailforayushy@gmail.com
 
 <!---
